@@ -191,7 +191,7 @@ function envoyerCommandeWhatsApp() {
   if (panier.length === 0) return; 
   const numeroWhatsApp = "50946829386"; 
   
-  let message = `Bonjour *E&F Store Online*, je souhaite valider ma commande :\n\n`; 
+  let message = `Bonjour *Sentia Store Online*, je souhaite valider ma commande :\n\n`; 
   let total = 0; 
   
   panier.forEach((item, index) => { 
